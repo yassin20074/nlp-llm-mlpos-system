@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+torch
+pandas
+scikit-learn
+sentence-transformers
+evidently
+mlflow
+sqlalchemy
+psycopg2-binary
